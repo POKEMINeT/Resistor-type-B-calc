@@ -8,3 +8,5 @@ How to use:
 Click terminals to select input (IN) and output (OUT).
 Add jumpers if needed (up to 3).
 The equivalent resistance will be displayed automatically.
+
+https://jk1rlft.github.io/Resistor-B-type-calc/
